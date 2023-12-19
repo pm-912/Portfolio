@@ -3,12 +3,12 @@
   }
   
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Georgia", Arial, sans-serif;
   }
   
 header {
     display: flex;
-    background-color: #f1f1f1;
+    background-color: #104a2d;
     padding: 30px;
     text-align: center;
     font-size: 35px;
@@ -23,6 +23,7 @@ nav {
 h2 {
     font-size: 125%;
 }
+
 .column {
     float: left;
     width: 33.33%;
