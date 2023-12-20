@@ -21,6 +21,7 @@ nav {
     justify-content: flex-end;
     font-size: 75%;
     text-decoration: none;
+    color: red;
   }
 
 nav > a {
@@ -31,6 +32,7 @@ nav > a {
 nav > a:visited {
   color: #fff;
   }
+
 .main-image {
   display:block;
   margin-left: auto;
@@ -41,18 +43,17 @@ h2 {
     font-size: 125%;
   }  
 
-.columnA, .columnB, .columnC {
-    float: left;
+.row {
+  display:flex;
+}
+
+.column {
+    justify-content: space-around;
     width: 33.33%;
     padding: 10px;
     height: 300px;
   }
 
-.columnA > img {
-  height: 300px;
-  z-index: 1;
-  
-}  
 .row:after {
     content: "";
     display: table;
