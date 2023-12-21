@@ -10,7 +10,7 @@ Meyerweb's CSS Reset template
 W3 Schools CSS template
 Dillon Megida's HTML template from https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/
 
-
+![image](./Assets/Images/screenshot.png)
 
 
 
